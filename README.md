@@ -17,18 +17,7 @@ I enjoy using my obsessive attention to detail and unwavering passion for creati
 - 💻 **Actively learning data structures and algorithms on HackerRank and LeetCode**
 - 🛠️ **Exploring tools and technologies in system design**
 
-Feel free to reach out to me at: [2k22.csaiml.2212256@gmail.com](mailto:2k22.csaiml.2212256@gmail.com).
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true" />
-</picture>
+![Tanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanushreeSarkar&show_icons=true&theme=highcontrast)
 
 ---
 
@@ -66,8 +55,8 @@ Feel free to check out all my projects and work samples in this repository!
 
 - 🌐 [My Blog](https://yourblogurl.com)
 - 📫 [Email me](mailto:2k22.csaiml.2212256@gmail.com)
-- 🐦 [Follow me on Twitter](https://twitter.com/yourprofile)
-- 📸 [Connect on LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Follow me on Twitter](https://twitter.com/rebel.tanu)
+- 📸 [Connect on LinkedIn](https://www.linkedin.com/in/tanushree-sarkar-32635624b/)
 
 ---
 
@@ -81,7 +70,7 @@ I'm currently focused on:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeSarkar&layout=donut)](https://github.com/TanushreeSarkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeSarkar&layout=donut&theme=highcontrast)](https://github.com/TanushreeSarkar/github-readme-stats)
 
 ---
 
