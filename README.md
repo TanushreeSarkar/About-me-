@@ -62,8 +62,7 @@ I'm currently focused on:
 - System Design Tools and Technologies
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanushreeSarkar&theme=highcontrast)](https://git.io/streak-stats)
 ---
 
 ## Thank You for Visiting!
