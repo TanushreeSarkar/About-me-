@@ -1,7 +1,5 @@
-# ![Header Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile)
-
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp?cid=ecf05e47n5tjcyc4ck0tq8lsuffgd30k9w2k4frchigrt28g&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="400"/>
+  <img src="C:\Users\Hp\Downloads\1-unscreen.gif" width="500"/>
 </div>
 
 ## About Me
@@ -55,7 +53,7 @@ Feel free to check out all my projects and work samples in this repository!
 
 - 🌐 [My Blog](https://yourblogurl.com)
 - 📫 [Email me](mailto:2k22.csaiml.2212256@gmail.com)
-- 🐦 [Follow me on Twitter](https://twitter.com/rebel.tanu)
+- 🐦 [Follow me on Twitter](https://twitter.com/tanushreessk)
 - 📸 [Connect on LinkedIn](https://www.linkedin.com/in/tanushree-sarkar-32635624b/)
 
 ---
